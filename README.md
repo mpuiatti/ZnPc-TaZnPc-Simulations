@@ -14,3 +14,7 @@ All files used in the project:
 are available at the following Zenodo repository:
 
 > Gorod, N. S., Borioni, J. L., & Puiatti, M. (2025). *Insights into the interaction of Zinc-Phthalocyanines with lipid bilayers for liposomal formulation*. Zenodo. [https://doi.org/10.5281/zenodo.16420855](https://doi.org/10.5281/zenodo.16420855)
+
+There are also included itp files, needed for the simulations.
+The itp files correspond to DPPC, Cholesterol, ZnPc and TaZnPc
+
